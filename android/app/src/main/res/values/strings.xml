@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">KeyForge NFC Card Emulation</string>
+    <string name="aid_group_desc">KeyForge HCE AID Group</string>
+</resources>
