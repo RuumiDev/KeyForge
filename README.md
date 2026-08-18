@@ -2,7 +2,7 @@
 
 <img src="public/assets/keyForgeBanner.gif" width="100%" alt="KeyForge Banner" />
 
-# KeyForge
+# **KeyForge**
 
 **Offline, Secure 13.56 MHz NFC Access Card Manager & Cloner for Android**
 
