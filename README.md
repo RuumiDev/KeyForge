@@ -1,7 +1,6 @@
 <div align="center">
 
 ![KeyForge Banner](public/assets/keyForgeBanner.gif)
-
 # KeyForge
 
 **Offline, Secure 13.56 MHz NFC Access Card Manager & Cloner for Android**
